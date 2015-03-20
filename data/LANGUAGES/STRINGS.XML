@@ -4,170 +4,204 @@
 		<en_gb>OPEN APOCALYPSE</en_gb>
 		<es_la>OPEN APOCALYPSE</es_la>
 		<fr_fr>OPEN APOCALYPSE</fr_fr>
+		<ua_ua>OPEN APOCALYPSE</ua_ua>
 	</string>
 	<string id="STR_START_CAMPAIGN">
 		<en_gb>Start Campaign</en_gb>
 		<es_la>Iniciar campaña</es_la>
 		<fr_fr>Commencer la partie campagne</fr_fr>
+		<ua_ua>Розпочати кампанію</ua_ua>
 	</string>
 	<string id="STR_LOAD_SAVED_GAME">
 		<en_gb>Load Saved Game</en_gb>
 		<es_la>Cargar partida</es_la>
 		<fr_fr>Charger la partie sauvegardée</fr_fr>
+		<ua_ua>Завантажити гру</ua_ua>
 	</string>
 	<string id="STR_OPTIONS">
 		<en_gb>Options</en_gb>
 		<es_la>Opciones</es_la>
 		<fr_fr>Options</fr_fr>
+		<ua_ua>Налаштування</ua_ua>
 	</string>
 	<string id="STR_QUIT">
 		<en_gb>Quit</en_gb>
 		<es_la>Abandonar</es_la>
 		<fr_fr>Quitter</fr_fr>
+		<ua_ua>Вихід</ua_ua>
 	</string>
 	<string id="STR_DEBUGMODE">
 		<en_gb>Debug Mode</en_gb>
 		<fr_fr>Mode Debug</fr_fr>
+		<ua_ua>Режим відлаштування</ua_ua>
 	</string>
 	<string id="STR_UFOPAEDIA">
 		<en_gb>UFOPAEDIA</en_gb>
 		<es_la>UFOPAEDIA</es_la>
 		<fr_fr>OVNIPÉDIE</fr_fr>
+		<ua_ua>УФОПЕДІЯ</ua_ua>
 	</string>
 	<string id="STR_UFOPEDIA_TITLE">
 		<en_gb>X-COM Apocalypse Ufopedia</en_gb>
 		<es_la>Ufopedia X-COM Apocalypse</es_la>
 		<fr_fr>Ovnipédie X-COM Apocalypse</fr_fr>
+		<ua_ua>Уфопедія X-COM Apocalypse</ua_ua>
 	</string>
 	<string id="STR_VEHICLES">
 		<en_gb>Vehicles</en_gb>
 		<es_la>Vehículos</es_la>
 		<fr_fr>Véhicules</fr_fr>
+		<ua_ua>Транспорт</ua_ua>
 	</string>
 	<string id="STR_VEHICLES_INFO">
 		<en_gb>Citizens of Mega-Primus use two types of vehicle. There are common road traveling vehicles that use a low cost anti-gravity system embedded in the road surface and airborne flyers which employ more sophisticated Elerium powered anti-gravity engines. The bold red military vehicles are available for X-COM to purchase.</en_gb>
 		<es_la>Los ciudadanos de Mega-Primus utilizan dos tipos de vehículos. Hay vehículos comunes terrestres que utilizan un sistema de anti-gravedad de bajo costo integrado en la superficie de la carretera y vehículos voladores que emplean motores anti-gravedad más sofisticado Elerium potencia . Los vehículos militares rojos audaces están disponibles para X-COM de la compra.</es_la>
 		<fr_fr>Les citoyens de Mega-Primus utilisent deux types de véhicules: les véhicules terrestres, relativement courants, qui fonctionnent grâce à un système anti-gravité peu coûteux scellé dans la surface de la route, et des véhicules aériens plus sophistiqués, mus par des moteurs anti-gravité à l&apos;élérium. X-COM peut acheter les véhicules militaires rouges.</fr_fr>
+		<ua_ua>Громадяни Мега-Прайму використовують два типи транспортних засобів. Звичайний дорожній транспорт, який використовує дешеву антигравітаційну систему, вбудовану в дорожнє покриття, та повітряні транспортні засоби, які використовують набагато складніші антигравітаційні двигуни на Елеріумі. X-COM теж може купувати військовий транспорт яскраво червоного кольору</ua_ua>
 	</string>
 	<string id="STR_FACILITIES">
 		<en_gb>Base Facilities</en_gb>
 		<es_la>Instalaciones</es_la>
 		<fr_fr>Installations de la base</fr_fr>
+		<ua_ua>Приміщення бази</ua_ua>
 	</string>
 	<string id="STR_FACILITIES_INFO">
 		<en_gb>X-COM bases are constructed from a variety of component units designed to perform different functions. The construction of a new base requires a bare minimum of living quarters and storage facilities. Beyond these requirements a base is designed to accommodate research, training and vehicle repair facilities. Bases will also need to be defended against aggression using well equipped Agents and security stations.</en_gb>
 		<es_la>Bases de X-COM se construyen con una variedad de instalaciones diseñadas para realizar diferentes funciones. La construcción de una nueva base requiere un mínimo de alojamientos y almacenamiento. Más allá de estas requisitos una base debe ser diseñada para dar cabida a las instalaciones de investigación, entrenamiento y reparación de vehículos. También tendrán que ser defendidas contra agresión utilizando agentes bien equipados y estaciones de seguridad</es_la>
 		<fr_fr>Les bases X-COM sont composées d&apos;une grande diversité d&apos;unités conçues pour répondre à différents besoins. Une base comprend au minimum des quartiers d&apos;habitation et des installations de stockage, auxquels viennent s&apos;ajouter des installations pour la recherche, l&apos;entraînement et la réparation des véhicules. Les bases doivent aussi posséder un système de défense efficace pour faire face à l&apos;agression alienne: les agents et les postes de sécurité y pourvoient.</fr_fr>
+		<ua_ua>Бази X-COM облаштовані з величезної кількості компонентів, виконуючих різноманітні функції. Створення нової бази потребує необхідного мінімуму житлових та складських приміщень. Окрім цього бази можуть бути облаштованими для виконання досліджень, тренування та ремонту техніки. Бази також повинні бути захищеними від нападу за допомогою добре екіпірованих Агентів та станцій безпеки.</ua_ua>
 	</string>
 	<string id="STR_VEHICLE_EQUIPMENT">
 		<en_gb>Vehicle Equipment</en_gb>
 		<es_la>Equipo de vehículo</es_la>
 		<fr_fr>Équipement pour les véhicules</fr_fr>
+		<ua_ua>Обладнання транспорта</ua_ua>
 	</string>
 	<string id="STR_VEHICLE_EQUIPMENT_INFO">
 		<en_gb>All military vehicles can be equipped with a variety of weapons, engines and special equipment. The engines and weapons are divided into road 	and airborne categories. Careful attention to improving vehicle equipment is an essential part of military strategy.</en_gb>	
 		<es_la>Todos los vehículos militares pueden ser equipados con una variedad de armas, motores y equipos especiales. Los motores y las armas se dividen en categorías terrestres y aereas. Se debe tomar mucho cuidado en la mejora del equipo de vehiculos ya que es una parte esencial de la estrategia militar.</es_la>
 		<fr_fr>Les véhicules militaires peuvent tous être équipés d&apos;une variété d&apos;armes, de moteurs et d&apos;équipement spécial. Les moteurs et les armes sont classés par catégorie: terrestre ou aérienne. L&apos;amélioration de l&apos;équipement des véhicules est l&apos;un des facteurs essentiels de la stratégie militaire.</fr_fr>
+		<ua_ua>Всі військові транспортні засоби можуть бути оснащені різноманітною зброєю, двигунами та спеціальним обладнанням. Двигуни та зброя поділяються на наземні та повітряні. Уважний вибір обладнання транспорту - важлива складова військової стратегії.</ua_ua>
 	</string>	
 	<string id="STR_EQUIPMENT">
 		<en_gb>Equipment</en_gb>
 		<es_la>Equipo</es_la>
 		<fr_fr>Équipement</fr_fr>
+		<ua_ua>Спорядження</ua_ua>
 	</string>
 	<string id="STR_EQUIPMENT_INFO">
 		<en_gb>X-COM Agents should be equipped in preparation for tactical missions. You can choose from a variety of guns, missile launchers, ammunition types, grenades and armor.</en_gb>
 		<es_la>Los agentes de X-COM deben estar equipados en preparación para misiones tácticas. Usted puede elegir entre una variedad de armas de fuego, lanzadores de misiles, tipos de municiones, granadas y armaduras.</es_la>
 		<fr_fr>L&apos;équipement des agents X-COM varie en fonction des missions tactiques. Vous avez le choix entre un très grand nombre de fusils, de rampes de lancement de missiles, de types de munitions, de grenades et de blindages.</fr_fr>
+		<ua_ua>Для виконання тактичних завдань агенти X-COM повинні бути екіпіровані. Ви можете обирати з цілого різноманіття зброї, реактивних пускових установок, типів амуніції, гранат та захисного спорядження.</ua_ua>
 	</string>
 	<string id="STR_ORGANIZATIONS">
 		<en_gb>Organizations</en_gb>
 		<es_la>Organizaciones</es_la>
 		<fr_fr>Organisations</fr_fr>
+		<ua_ua>Організації</ua_ua>
 	</string>
 	<string id="STR_ORGANIZATIONS_INFO">
 		<en_gb>The Organizations which operate in Mega-Primus consist of corporations, political groups, criminal gangs and the government. All of them are at risk from Alien infiltration but some are more vulnerable than others. </en_gb>
 		<es_la>Las organizaciones que operan en Mega-Primus consisten de corporaciones, grupos políticos, pandilla criminales y el gobierno. Todos ellos están en peligro de  infiltración alienígena, pero algunos son más vulnerables que otros.</es_la>
 		<fr_fr>Les Organisations en activité dans Mega-Primus sont diverses: sociétés, gangs criminels et le gouvernement. Toutes ces organisations sont susceptibles d&apos;être infiltrées par les aliens, mais certaines sont plus vulnérables que d&apos;autres.</fr_fr>
+		<ua_ua>Організації, які ведуть діяльність в Мега-Праймі поділяються на корпорації, політичні групи, кримінальні угруповання та уряд. Всі вони знаходяться під ризиком проникнення інопланетян, однак деякі з них більш уразливі.</ua_ua>
 	</string>
 	<string id="STR_VIP">
 		<en_gb>Unused (WAS VIP TITLE PAGE)</en_gb>
 		<es_la>No utilizado (ERA TÍTULO DE VIP)</es_la>
 		<fr_fr>Non utilisé (ÉTAIT LA PAGE TITRE VIP</fr_fr>
+		<ua_ua>Був титульний лист для VIP</ua_ua>
 	</string>
 	<string id="STR_VIP_INFO">
 		<en_gb>Unused (WAS VIP INFO PAGE)</en_gb>
 		<es_la>No utilizado (ERA INFORMACIÓN DE VIP)</es_la>
 		<fr_fr>Non utilisé (ÉTAIT LA PAGE INFO VIP</fr_fr>
+		<ua_ua>Не використовується (Був титульний лист для VIP)</ua_ua>
 	</string>
 	<string id="STR_ALIENS">
 		<en_gb>Aliens</en_gb>
 		<es_la>Alienígenas</es_la>
 		<fr_fr>Aliens</fr_fr>
+		<ua_ua>Інопланетяни</ua_ua>
 	</string>
 	<string id="STR_ALIENS_INFO">
 		<en_gb>All results of Alien research are recorded here, including results of autopsies and analysis of living specimens.</en_gb>
 		<es_la>Todos los resultados de investigación alienígena se registran aquí, incluyendo los resultados de las autopsias y análisis de los especímenes vivos.</es_la>
 		<fr_fr>Tous les résultats concernant la recherche sur les aliens sont consignés ici, y compris les résultats d&apos;autopsie et les analyses de spécimens vivants.</fr_fr>
+		<ua_ua>Всі результати досліджень інопланетян, включаючи результати розтинів та аналіз живих зразків, наведені тут.</ua_ua>
 	</string>
 	<string id="STR_BUILDINGS">
 		<en_gb>Buildings</en_gb>
 		<es_la>Edificios</es_la>
 		<fr_fr>Bâtiments</fr_fr>
+		<ua_ua>Будівлі</ua_ua>
 	</string>
 	<string id="STR_BUILDINGS_INFO">
 		<en_gb>Each building in Mega-Primus is a vast labyrinth of corridors, atriums, rooms, halls and service ducts. If Aliens have infiltrated a building they will be found in just a small part of the complex, with plenty of places to escape from the combat zone. Buildings with lower populations or numerous service areas provide much better places for Aliens to hide and breed.</en_gb>
 		<es_la>Cada edificio en Mega-Primus es un vasto laberinto de pasillos, atrios, salas, salones y conductos de servicio. Si Los alienígenas se han infiltrado en un edificio estaran hubicados en tan sólo una pequeña parte del complejo, con muchas opciones para escapar de la zona de combate. Edificios con poco residentes o numerosas áreas de servicio ofrecen a los alienígenas mejores lugares  para esconderse y reproducirse.</es_la>
 		<fr_fr>Chaque bâtiment de Mega-Primus est un vaste labyrinthe de couloirs, de cours, de halls et de conduites d&apos;entretien. Si les aliens infiltrent un bâtiment, ils se cachent dans le moindre recoin du complexe, et ils peuvent évacuer la zone de combat et se retrancher dans de nombreux endroits. Les bâtiments peu peuplés ou ceux qui abritent de nombreuses aires de service fournissent une excellente cachette ou un lieu de reproduction pour les aliens.</fr_fr>
+		<ua_ua>Кожна будівля в Мега-Праймі є величезним лабірінтом, який складається з коридорів, атріумів, кімнат, холів та сервісних комір. Якщо інопланетяни проникли в будівлю їх можна знайти в невеликій частині комплексу, з великою кількістю шляхів відступу з поля бою. Малонаселені будівлі та будівлі з великою кількістю технічних приміщень являють собою чудові місця для схову та розмноження інопланетян.</ua_ua>
 	</string>
 	<string id="ATR_ALIEN_DIMENSION">
 		<en_gb>The Alien Dimension</en_gb>
 		<es_la>La dimensión alienígenas</es_la>
 		<fr_fr>La Dimension Alienne</fr_fr>
+		<ua_ua>Вимір інопланетян</ua_ua>
 	</string>
 	<string id="ATR_ALIEN_DIMENSION_INFO">
 		<en_gb>All research into the origins of the Aliens and their home world is collected in this section.</en_gb>
 		<es_la>Toda la investigación sobre los orígenes de los alienígenas y su mundo se acumula en esta sección.</es_la>
 		<fr_fr>Toutes les recherches sur les origines des aliens et sur le monde dans lequel ils vivent sont rassemblées dans cette section.</fr_fr>
+		<ua_ua>Всі результати досліджень щодо виникнення Інопланетян та їх батьківського миру зосереджені в цьому розділі.</ua_ua>
 	</string>
 	<string id="STR_PROBE">
 		<en_gb>Alien Probe</en_gb>
 		<es_la>Sonda alienígena</es_la>
 		<fr_fr>Sonde alienne</fr_fr>
+		<ua_ua>Зонд Інопланетян</ua_ua>
 	</string>
 	<string id="STR_PROBE_INFO">
 		<en_gb>The structure of the vehicle suggests an organic construction process. The skin is composed of a strong and unusual compound that allows the craft to travel without harm through the Dimension Gates. This unmanned craft is equipped with an unusual type of beam weapon. Its limited capability suggests that it is purely designed to collect information and then return to the Alien Dimension.</en_gb>
 		<es_la>La estructura de este vehículo sugiere un proceso de construcción orgánica. La forro está compuesto de un material fuerte e inusual que permite a la nave viajar sin daño a través de los portales dimensionales. Esta nave sin tripulación cuenta con un tipo inusual de arma de rayos. Sus limitada habilidades sugiere que es puramente diseñado para recopilar información y luego volver a la dimensión alienígena.</es_la>
 		<fr_fr>La structure de la sonde suggère un procédé de construction organique. Le revêtement est composé d&apos;un élément solide et rare qui permet au vaisseau de traverser les portails interdimensionnels sans subir de dégâts. Ce vaisseau doté d&apos;un émetteur de rayons étrange abrite un petit équipage. Son potentiel limité indique qu&apos;il est conçu dans le but unique de rassembler des informations puis de les ramener dans la dimension alienne.</fr_fr>
+		<ua_ua>Структура цього апарату наштовхує на думку про його органічне походження. Оболонка складається з дуже міцного та незвичайного матеріалу, який дає апарату можливість подорожувати крізь Ворота Виміру без будь яких ушкоджень. Це безіменне судно обладнане незвичайною променевою зброєю. Його обмежена місткість дає змогу припустити що воно розроблене з єдиною метою - збір інформації з подальшим поверненням до Виміру Інопланетян.</ua_ua>
 	</string>
 	<string id="STR_SCOUT_SHIP">
 		<en_gb>Alien Scout Ship</en_gb>
 		<es_la>Explorador alienígena</es_la>
 		<fr_fr>Vaisseau éclaireur alien</fr_fr>
+		<ua_ua>Розвідник Інопланетян</ua_ua>
 	</string>
 	<string id="STR_SCOUT_SHIP_INFO">
 		<en_gb>This vessel appears to be a surveillance craft. Its structure is very strange and there is no evidence of any crew or cargo. The craft&amp;apos;s internals appear to have been intentionally destroyed by the Aliens from a remote location. The craft is armed with small beam weapon. The craft does not appear to be a great threat to the city, but can only be a precursor to more dangerous incursions.</en_gb>
 		<es_la>Esta embarcación parece ser una nave de vigilancia. Su estructura es muy extraña y no hay evidencia de tripulación o carga. La instrumentación de la nave parecen haber sido intencionalmente destruida por los alienígena desde una ubicación remota. La nave está armada con una arma pequeña de rayos. La nave no parece ser una gran amenaza para la ciudad, pero sólo puede ser un precursor de incursiones más peligrosas.</es_la>
 		<fr_fr>Il semblerait que ce soit un appareil de surveillance. Il a une forme bizarre et ne semble transporter ni équipage ni cargaison. On dirait que l&apos;intérieur de l&apos;appareil a été intentionnellement détruit à distance par les Aliens. Le vaisseau est équipé d&apos;un petit émetteur de rayons. Il ne semble pas représenter une grande menace pour la ville, mais il ne peut que présager d&apos;incursions plus dangereuses.</fr_fr>
+		<ua_ua>Це судно скоріш за все являє собою розвідувальний апарат. Його структура дуже дивна і наразі немає жодних доказів наявності екіпажу або грузів на борту. Схоже на те, що нутрощі судна навмисно зруйновані інопланетянами з віддаленого місця. Судно обладнане легкою променевою зброєю і не становить значної загрози для міста, однак воно може бути передвісником більш небезпечного вторгнення.</ua_ua>
 	</string>
 	<string id="STR_TRANSPORTER_SHIP">
 		<en_gb>Alien Transporter</en_gb>
 		<es_la>Transporte alienígena</es_la>
 		<fr_fr>Transport alien</fr_fr>
+		<ua_ua>Транспорт Інопланетян</ua_ua>
 	</string>
 	<string id="STR_TRANSPORTER_SHIP_INFO">
 		<en_gb>The primary mission of this craft is to deposit Alien life forms inside city buildings. This represents a serious challenge for our ground forces, but if they can be shot down before they unload their passengers, then the problem will be minimized. The craft is armed with the same beam weapon as the Scout Ships or Probes, but it is slower moving and an easier target to hit.</en_gb>
 		<es_la>La misión principal de este arte es depositar alienígena dentro de los edificios de la ciudad. Esto representa un serio reto para nuestras fuerzas de tierra, pero si pueden ser derribados antes de que descargan sus pasajeros, entonces el problema se reduce al mínimo. La nave está armada con la misma arma de rayos como las naves de exploración o sondas, pero es más lento en movimiento y un blanco más fácil de acertar.</es_la>
 		<fr_fr>L&apos;objectif principal de ce vaisseau est de transporter des formes de vie alienne dans les bâtiments de la ville, ce qui pose un problème sérieux à nos forces au sol, à moins qu&apos;elles ne réussissent à l&apos;abattre avant qu&apos;il n&apos;ait eu le temps de déposer ses passagers. Ce vaisseau est armé du même émetteur de rayons que les sondes ou les éclaireurs aliens, mais il se déplace plus lentement et représente une cible facile.</fr_fr>
+		<ua_ua>Головним завданням цього судна є десант іноземних форм життя в міські будівлі. Це являє собою серйозний виклик для наших наземних сил, однак, якщо вони можуть бути збитими до висадки десанту, проблема може бути зведена до мінімуму. Судно обладнане тією-ж самою променевою зброєю, що й Розвідники або Зонди, однак воно пересувається повільніше і являє собою значно легшу ціль.</ua_ua>
 	</string>
 	<string id="STR_FAST_ATTACK_SHIP">
 		<en_gb>Alien Fast Attack Ship</en_gb>
 		<es_la>Acorazado alienígena</es_la>
 		<fr_fr>Vaisseau d&apos;attaque rapide alien</fr_fr>
+		<ua_ua>Швидкий Атакуючий Корабель</ua_ua>
 	</string>
 	<string id="STR_FAST_ATTACK_SHIP_INFO">
 		<en_gb>This craft is well armored, highly maneuverable and armed with a powerful beam weapon. It is designed to protect other more vulnerable Alien ships. Avoid these craft if the threat to our vehicles is too great and concentrate on shooting down the Alien Transports.</en_gb>
 		<es_la>Esta nave está bien blindada, es muy maniobrable y consta con un arma de rayos de gran alcance. Está diseñado para proteger otras naves alienígena más vulnerables. Evite estas naves si la amenaza a nuestros vehículos es demasiado grande y concentrese en derribar los transportes alienígena.</es_la>
 		<fr_fr>Ce vaisseau d&apos;une grande maniabilité possède un armement important, rehaussé d&apos;un émetteur de rayons puissant. Il est conçu pour protéger les autres vaisseaux aliens plus vulnérables. Evitez ces vaisseaux si la menace qu&apos;ils représentent pour nos véhicules est trop grande et contentez-vous d&apos;abattre les transports aliens.</fr_fr>
+		<ua_ua>Це судно дуже добре броньовано, надзвичайно маневрене та озброєно потужною променевою зброєю. Воно призначене для захисту інших, більш вразливих, інопланетних кораблів. Уникайте цього судна, якщо загроза для наших суден значна та концентруйтесь на збиванні транспортів.</ua_ua>
 	</string>
 	<string id="STR_DESTROYER_SHIP">
 		<en_gb>Alien Destroyer</en_gb>
