@@ -111,13 +111,13 @@
 		<en_gb>Unused (WAS VIP TITLE PAGE)</en_gb>
 		<es_la>No utilizado (ERA TÍTULO DE VIP)</es_la>
 		<fr_fr>Non utilisé (ÉTAIT LA PAGE TITRE VIP</fr_fr>
-		<ua_ua>Був титульний лист для VIP</ua_ua>
+		<ua_ua>Не використовується (Був титульний лист для VIP)</ua_ua>
 	</string>
 	<string id="STR_VIP_INFO">
 		<en_gb>Unused (WAS VIP INFO PAGE)</en_gb>
 		<es_la>No utilizado (ERA INFORMACIÓN DE VIP)</es_la>
 		<fr_fr>Non utilisé (ÉTAIT LA PAGE INFO VIP</fr_fr>
-		<ua_ua>Не використовується (Був титульний лист для VIP)</ua_ua>
+		<ua_ua>Не використовується (Була сторінка VIP інформації)</ua_ua>
 	</string>
 	<string id="STR_ALIENS">
 		<en_gb>Aliens</en_gb>
@@ -165,7 +165,7 @@
 		<en_gb>The structure of the vehicle suggests an organic construction process. The skin is composed of a strong and unusual compound that allows the craft to travel without harm through the Dimension Gates. This unmanned craft is equipped with an unusual type of beam weapon. Its limited capability suggests that it is purely designed to collect information and then return to the Alien Dimension.</en_gb>
 		<es_la>La estructura de este vehículo sugiere un proceso de construcción orgánica. La forro está compuesto de un material fuerte e inusual que permite a la nave viajar sin daño a través de los portales dimensionales. Esta nave sin tripulación cuenta con un tipo inusual de arma de rayos. Sus limitada habilidades sugiere que es puramente diseñado para recopilar información y luego volver a la dimensión alienígena.</es_la>
 		<fr_fr>La structure de la sonde suggère un procédé de construction organique. Le revêtement est composé d&apos;un élément solide et rare qui permet au vaisseau de traverser les portails interdimensionnels sans subir de dégâts. Ce vaisseau doté d&apos;un émetteur de rayons étrange abrite un petit équipage. Son potentiel limité indique qu&apos;il est conçu dans le but unique de rassembler des informations puis de les ramener dans la dimension alienne.</fr_fr>
-		<ua_ua>Структура цього апарату наштовхує на думку про його органічне походження. Оболонка складається з дуже міцного та незвичайного матеріалу, який дає апарату можливість подорожувати крізь Ворота Виміру без будь яких ушкоджень. Це безіменне судно обладнане незвичайною променевою зброєю. Його обмежена місткість дає змогу припустити що воно розроблене з єдиною метою - збір інформації з подальшим поверненням до Виміру Інопланетян.</ua_ua>
+		<ua_ua>Структура цього апарату наштовхує на думку про його органічне походження. Оболонка складається з незвичайного, дуже міцного та пружного матеріалу, який дає апарату можливість подорожувати крізь Ворота Виміру без будь яких ушкоджень. Це безіменне судно обладнане незвичайною променевою зброєю. Його обмежена місткість дає змогу припустити що воно розроблене з єдиною метою - збір інформації з подальшим поверненням до Виміру Інопланетян.</ua_ua>
 	</string>
 	<string id="STR_SCOUT_SHIP">
 		<en_gb>Alien Scout Ship</en_gb>
@@ -207,61 +207,73 @@
 		<en_gb>Alien Destroyer</en_gb>
 		<es_la>Destructor alienígena</es_la>
 		<fr_fr>Destroyer alien</fr_fr>
+		<ua_ua>Есмінець Інопланетян</ua_ua>
 	</string>
 	<string id="STR_DESTROYER_SHIP_INFO">
 		<en_gb>The Destroyer is heavily armored and its behavior is aggressive. It is armed with a powerful Alien Missile Launcher capable of immense destruction. It can also deposit Alien beings into the city.</en_gb>
 		<es_la>El Destructor está fuertemente blindado y su comportamiento es agresivo. Consta con un poderoso Lanzamisiles alienígena capaz de inmensa destrucción. Y también puede depositar alienígenas en la ciudad.</es_la>
 		<fr_fr>Le destroyer a un blindage épais et est très agressif. Il est armé d&apos;une puissante rampe de lancement de missiles aliens d&apos;une efficacité terrible. Il peut aussi amener des aliens dans la ville.</fr_fr>
+		<ua_ua>Есмінець дуже добре броньований та дуже агресивний. Він озброєний потужним Ракетним Комплексом Інопланетян, який взмозі нанести величезні пошкодження. Він також має можливість висаджувати десант в місто.</ua_ua>
 	</string>
 	<string id="STR_ASSAULT_SHIP">
 		<en_gb>Alien Assault Ship</en_gb>
 		<es_la>Nave de Asalto alienígena</es_la>
 		<fr_fr>Vaisseau d&apos;attaque alien</fr_fr>
+		<ua_ua>Штурмовий Корабель Інопланетян</ua_ua>
 	</string>
 	<string id="STR_ASSAULT_SHIP_INFO">
 		<en_gb>The Assault Ship effectively replaces the Alien Transport as a troop carrier. It can deposit large numbers of Aliens into city buildings and is armed with a powerful beam weapon. This craft is highly dangerous and must be stopped at all costs.</en_gb>
 		<es_la>La Nave de Asalto reemplaza efectivamente al transporte alienígena como transporte de tropas. Puede depositar un gran número de alienígenas en edificios de la ciudad y está armado con un arma de rayos de gran alcance. Esta nave es sumamente peligrosa y debe ser detenida a toda costa.</es_la>
 		<fr_fr>Le vaisseau d&apos;attaque remplace efficacement le transport alien pour transporter des troupes. Il peut déposer un grand nombre d&apos;aliens dans les bâtiments de la ville, et il est armé d&apos;un émetteur de rayons puissant. Ce vaisseau est extrêmement dangereux et doit être arrêté à tout prix.</fr_fr>
+		<ua_ua>Штурмовий Корабель є дуже ефективною заміною Транспорту Інопланетян в якості десантного судна. Він озброєний потужною променевою зброєю та може висадити значну кількість інопланетян в будівлі міста. Це судно надзвичайно небезпечне та повинно бути спинено за будь-яку ціну.</ua_ua>
 	</string>
 	<string id="STR_BOMBER_SHIP">
 		<en_gb>Alien Bomber</en_gb>
 		<es_la>Bombardero alienígena</es_la>
 		<fr_fr>Bombardier alien</fr_fr>
+		<ua_ua>Бомбардувальник Інопланетян</ua_ua>
 	</string>
 	<string id="STR_BOMBER_SHIP_INFO">
 		<en_gb>The Alien Bomber is equipped with an unusual missile launcher which fires a missile that splits into multiple, independently targeted missiles. It also has a light beam weapon to deal with close air combat. There is a limited crew on board.</en_gb>
 		<es_la>El Bombardero alienígena está equipado con un inusual lanzador de misiles el cual dispara un misil que se divide en varios misiles, independientemente dirigidos. También cuenta con un arma ligera de rayos para defenderse en combate aéreo cercano y consta con una tripulacion limitada.</es_la>
 		<fr_fr>Le bombardier alien est équipé d&apos;une étrange rampe de lancement de missiles dont les projectiles se divisent en une multitude de missiles qui ont chacun une cible différente. Ce vaisseau est également armé d&apos;un émetteur de rayons léger pour se protéger lors des combats rapprochés. Le bombardier transporte un équipage limité.</fr_fr>
+		<ua_ua>Бомбардувальник Інопланетян оснащено незвичайною ракетною установкою, яка випускає ракету, що розділяється на декілька незалежно наводячихся ракет. Воно також оснащене легкою променевою зброєю, яку застосовує в ближньому бою. Екіпаж судна обмежен.</ua_ua>
 	</string>
 	<string id="STR_SCORT_SHIP">
 		<en_gb>Alien Escort Ship</en_gb>
 		<es_la>Escolta alienígena</es_la>
 		<fr_fr>Vaisseau d&apos;escorte alien</fr_fr>
+		<ua_ua>Ескортний Корабель Інопланетян</ua_ua>
 	</string>
 	<string id="STR_SCORT_SHIP_INFO">
 		<en_gb>This craft is fast and nimble. On its own it represents no threat, but is deadly when combined with other Alien combat ships. It is armed with a missile which generates a Stasis Field on impact. This field holds the target still for a small period of time so craft that rely on evasion for defense, become vulnerable.</en_gb>
 		<es_la>Esta nave es rápida y ágil, por sí sola no representa amenaza ninguna, pero es mortal cuando se combina con otras naves de combate alienígena. Está armada con un misil que genera un campo de estasis en impacto. Este campo detiene el blanco por un corto período de tiempo, de esta manera las naves que se basan en evasión para defensa, quedan vulnerables.</es_la>
 		<fr_fr>C&apos;est un vaisseau rapide, d&apos;une excellente maniabilité. Il ne constitue pas une menace à lui seul, mais il est extrêmement dangereux lorsqu&apos;il est accompagné d&apos;autres vaisseaux de combat aliens. Il est armé d&apos;un missile qui génère un champ stasique lorsqu&apos;il explose, ce qui contribue à immobiliser la cible pendant une période limitée. Les véhicules qui se défendent en employant des manoeuvres évasives sont extrêmement vulnérables face à ce vaisseau.</fr_fr>
+		<ua_ua>Це судно швидке та спритне. Поодиноко - воно не являє загрози, однак в супроводі інших кораблів інопланетян - смертельно небезпечне. Воно озброєне ракетами, що генерують Стазісне Поле при влучанні. Це поле утримує ціль нерухомою протягом невеликого часу, таким чином судна, чиїм захистом є маневреність стають вразливими.</ua_ua>
 	</string>
 	<string id="STR_BATTLESHIP">
 		<en_gb>Alien Battleship</en_gb>
 		<es_la>Acorazado alienígena</es_la>
 		<fr_fr>Vaisseau de combat alien</fr_fr>
+		<ua_ua>Лінкор Інопланетян</ua_ua>
 	</string>
 	<string id="STR_BATTLESHIP-INFO">
 		<en_gb>This immense craft is heavily armored, well armed and has a large crew. It is equipped with a Heavy Disruptor Beam and Disruptor Missiles. If the Aliens can produce just a handful of these devastating leviathans, the future of our world looks bleak.</en_gb>
 		<es_la>Esta inmensa nave está fuertemente blindado, bien armado y tiene una amplia tripulación. Está equipado con un rayo disyuntor pesado y misiles disyuntor. Si los alienígena pueden producir sólo un puñado de estos leviatanes devastadores, el futuro de nuestro mundo parece sombrío.</es_la>
 		<fr_fr>Cet immense vaisseau est équipé d&apos;un blindage efficace, d&apos;une grande quantité d&apos;armes, et il dispose d&apos;un équipage important. Il transporte un rayon disrupteur lourd et des bombes de disruption inversées. Si les aliens parviennent à construire plusieurs de ces léviathans dévastateurs, notre futur est bien sombre.</fr_fr>
+		<ua_ua>Це величезне, важко броньоване судно дуже добре озброєно та має велику команду на борту. Воно оснащене Важким Розщеплювачем та Розщеплюючими ракетами. Якщо інопланетяни зможуть побудувати декілька цих руйнівних левіафанів, майбутнє нашого світу виглядає дуже моторошно.</ua_ua>
 	</string>
 	<string id="STR_MOTHERSHIP">
 		<en_gb>Alien Mothership</en_gb>
 		<es_la>Nave Nodriza alienígena</es_la>
 		<fr_fr>Vaisseau-mère alien</fr_fr>
+		<ua_ua>Дредноут Інопланетян</ua_ua>
 	</string>
 	<string id="STR_MOTHERSHIP_INFO">
 		<en_gb>The Mothership is an extremely large, well equipped vessel. It is armed with a Heavy Disruptor Beam, Disruptor Multi-Bombs and Stasis Field Bombs. It represents a very serious threat to the city because its purpose seems to be mass destruction rather than infiltration. If the Aliens become desperate they will deploy this craft to raze the city to the ground. They must be stopped at all costs.</en_gb>
 		<es_la>La Nave Nodriza es una nave muy grande y bien equipada. Está armada con un rayo disyuntor pesado, disruptor Multi-bombas y estasis campo bombas. Representa una amenaza muy severa para la ciudad, ya que su meta parece ser destrucción total en lugar de infiltración. Si los alienígenas se desesperan pueden desplazar esta nave para arrasar con la ciudad hasta sus cimientos. Hay que detenerlos a toda costa.</es_la>
 		<fr_fr>Le vaisseau-mère est immense et très bien équipé. Il est armé d&apos;un rayon disrupteur lourd, de multi-bombes de disruption et de bombes à champ stasique. Ce vaisseau représente une menace très sérieuse pour la ville, car son but semble être la destruction en masse plutôt que l&apos;infiltration. Si les aliens se fâchent, ils peuvent entièrement raser la ville à l&apos;aide de ce vaisseau. Il faut les arrêter à tout prix.</fr_fr>
+		<ua_ua>Дредноут це величезне, винятково добре обладнане судно. Воно озброєне Важким Розщеплювачем, Розщеплюючою Мульти-Бомбовою установкою та Стазісними Бомбами. Воно уявляє собою дуже серйозну загрозу для міста, оскільки, судячи з усього, його метою є не десант, а виключно массове руйнування. Якщо інопланетяни впадуть у розпач вони скерують це судно на те, щоб зруйнувати місто до землі. Ці судна повинні бути спинені за будь-яку ціну.</ua_ua>
 	</string>
 	<string id="STR_POLICE_HOVERCAR">
 		<en_gb>Police Hovercar</en_gb>
@@ -272,26 +284,31 @@
 		<en_gb>Megapol&amp;apos;s police Hovercars are the scourge of the slum dwelling criminal gangs. They are well armed and able to travel freely within and outside the city boundaries, scouring the ground or air for unlicensed or criminal vehicles. They are no match for heavier military vehicles, but Megapol is able to manufacture many of these scout cars and can replace any losses. The vehicle&amp;apos;s styling is required to conform to city aesthetic ordinances concerning pleasurable design of public vehicles.</en_gb>
 		<es_la>Patrulla flotante de Megapol son el azote de los barrio marginales donde viven las bandas criminales. Están bien armados y son capaces de viajar libremente dentro y fuera de los límites de la ciudad, purgando la tierra o el aire de vehículos sin licencia o criminales. No se comparan con vehículos militares pesados​​, pero Megapol es capaz de fabricar muchos de estos vehículos de reconocimiento y puede reemplazar las bajas. Los vehículos requieren un estilo especifico para conformar con las ordenanzas estéticas de la ciudad relacionados con el diseño agradable de los vehículos públicos.</es_la>
 		<fr_fr>Les hovercars de police de Megapol sont le cauchemar des gangs de criminels hantant les quartiers pauvres, les taudis de la ville. Ce sont des voitures bien armées qui peuvent circuler librement à l&apos;intérieur et au-delà des frontières de la ville. Elles n&apos;arrivent pas vraiment à la cheville des véhicules militaires plus lourds, mais Megapol peut fabriquer ces voitures de patrouille en grandes quantités et peut donc remplacer les pertes sans problème. La ligne des véhicules doit être conforme aux décrets municipaux sur l&apos;esthétisme concernant le design agréable des véhicules publics</fr_fr>
+		<ua_ua>Ховеркар поліції</ua_ua>
 	</string>
 	<string id="STR_AIRTAXI">
 		<en_gb>Airtaxi</en_gb>
 		<es_la>Aerotaxi</es_la>
 		<fr_fr>Taxi aérien</fr_fr>
+		<ua_ua>Аеротаксі</ua_ua>
 	</string>
 	<string id="STR_AIRTAXI_INFO">
 		<en_gb>The wealthy citizen would not normally travel by people-tube or road, but instead hire the services of a fast and reliable Airtaxi. The styling is conspicuously based on the more humble road going version, but the ride is more refined. Expect the occasional Airtaxi you see to contain a VIP, or flamboyant Sensovision celebrity.</en_gb>
 		<es_la>El ciudadano rico normalmente no viajaría por los tubo-gente o la via publica, en lugar contratan los servicios de un Aerotaxi que es rápido y fiable. El diseño se basa claramente en la versión de carretera que es más humilde, pero en cambio el viaje es más refinado. Espera lo Aerotaxi ocasional ves para contener un VIP o extravagante celebridad Sensovision.</es_la>
 		<fr_fr>Les citoyens nantis n&apos;ont pas pour habitude d&apos;emprunter les voies terrestres ou les Tubes, ils louent plutôt les services des taxis aériens, rapides et fiables. La ligne est visiblement basée sur les versions plus humbles des taxis terrestres, mais ils sont plus confortables. Si vous voyez des taxis aériens, ils transportent sûrement un VIP ou une vedette extravagante de Sensovision.</fr_fr>
+		<ua_ua>Заможні громадяни зазвичай не користуються для подорожей метро-тубою або звичайними дорогами, натомість вони користуються послугами швидкого та надійного Аеротаксі. Його стилістика запозичена у більш скромної дорожньої версії, але воно набагато вишуканіше. За рідкісними винятками в них ви можете побачити VIP персон або яскравих зірок Сенсобачення.</ua_ua>
 	</string>
 	<string id="STR_RESCUE_TRASNPORT">
 		<en_gb>Rescue Transport</en_gb>
 		<es_la>Rescue Transport</es_la>
 		<fr_fr>Transport de secours</fr_fr>
+		<ua_ua>Транспорт рятівників</ua_ua>
 	</string>
 	<string id="STR_RESCUE_TRASNPORT_INFO">
 		<en_gb>The airborne rescue vehicle serves as an ambulance and fire engine. It is specially equipped to deal with rescue situations involving car accidents and other disasters. However dealing with the Alien invasion is well beyond the scope of the rescue service which normally has little to do given the strict safety regulations governing all aspects of city life.</en_gb>
 		<es_la>The airborne rescue vehicle serves as an ambulance and fire engine. It is specially equipped to deal with rescue situations involving car accidents and other disasters. However dealing with the Alien invasion is well beyond the scope of the rescue service which normally has little to do given the strict safety regulations governing all aspects of city life.</es_la>
 		<fr_fr>Le véhicule de secours aérien sert d&apos;ambulance et de voiture de pompier. Il est spécialement équipé pour apporter des secours dans des situations telles que des accidents d&apos;auto ou autres catastrophes dans la ville. Cependant le service de secours, qui n&apos;a pratiquement jamais à intervenir en raison des règles de sécurité extrêmement strictes de la ville, ne dispose pas des compétences nécessaires pour faire face à l&apos;invasion alienne.</fr_fr>
+		<ua_ua>Повітряне судно рятівників виступає в якості швидкої допомоги та пожежного транспорту. Воно спеціально обладнане для того, щоб упоратися з ситуаціями, коли потрібне спасіння, наприклад автомобільні аварії та інші катастрофи. Однак вторгнення інопланетян знаходиться за межою їх можливостей</ua_ua>
 	</string>
 	<string id="STR_CONSTRUCTION_VEHICLE">
 		<en_gb>Construction Vehicle</en_gb>
